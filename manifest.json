@@ -1,0 +1,19 @@
+{
+  "name": "Meu APP Financeiro",
+  "short_name": "Meu Financeiro",
+  "description": "Aplicativo pessoal para organização e acompanhamento financeiro.",
+  "start_url": "./MeuAPPFinanceiro.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
