@@ -2,7 +2,7 @@
   "name": "Meu APP Financeiro",
   "short_name": "Meu Financeiro",
   "description": "Aplicativo pessoal para organização e acompanhamento financeiro.",
-  "start_url": "./MeuAPPFinanceiro.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
