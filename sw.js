@@ -1,5 +1,10 @@
 const CACHE_NAME = 'meuappfinanceiro';
-const APP_SHELL = ['./', './MeuAPPFinanceiro.html', './manifest.json'];
+const APP_SHELL = [
+  './', 
+  './MeuAPPFinanceiro.html', 
+  './manifest.json',
+  './financi.png'
+];
 
 self.addEventListener('install', event => {
   event.waitUntil(
