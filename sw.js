@@ -1,7 +1,7 @@
 const CACHE_NAME = 'meuappfinanceiro';
 const APP_SHELL = [
   './', 
-  './MeuAPPFinanceiro.html', 
+  './index.html', 
   './manifest.json',
   './financi.png'
 ];
@@ -41,7 +41,7 @@ self.addEventListener('fetch', event => {
             );
             return response;
           })
-          .catch(() => caches.match('./MeuAPPFinanceiro.html'))
+          .catch(() => caches.match('./index.html'))
       )
   );
 });
