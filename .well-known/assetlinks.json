@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mestrerofran.twa",
+        "sha256_cert_fingerprints": ["17:39:E2:59:52:64:FD:64:02:1F:EB:1B:AC:95:79:D5:EC:5B:B7:74:23:CB:B9:3F:FF:CD:01:80:67:91:1B:4A"]
+      }
+    }]
+
