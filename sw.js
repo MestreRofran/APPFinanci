@@ -1,4 +1,4 @@
-const CACHE_NAME = 'meuappfinanceiro-v3.0';
+const CACHE_NAME = 'meuappfinanceiro';
 const APP_SHELL = ['./', './MeuAPPFinanceiro.html', './manifest.json'];
 
 self.addEventListener('install', event => {
