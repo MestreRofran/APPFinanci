@@ -1,7 +1,7 @@
 {
   "id": "/",
   "name": "Meu APP Financeiro",
-  "short_name": "Meu Financeiro",
+  "short_name": "Financi",
   "description": "Aplicativo pessoal para organização e acompanhamento financeiro.",
   "start_url": "./index.html",
   "scope": "./",
@@ -13,7 +13,7 @@
   "icons": [
     {
       "src": "./financi.png",
-      "sizes": "512x512",
+      "sizes": "192x192 512x512 2048x2048",
       "type": "image/png",
       "purpose": "any maskable"
     }
