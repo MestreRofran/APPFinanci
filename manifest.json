@@ -1,9 +1,9 @@
 {
   "id": "/APPFinanci/",
-  "name": "Meu APP Financeiro",
+  "name": "Financi",
   "short_name": "Financi",
   "description": "Aplicativo pessoal para organização e acompanhamento financeiro.",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
