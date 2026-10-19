@@ -85,18 +85,6 @@ Quando houver divergência entre cópias, a lógica atual prioriza a **informaç
 O app foi preparado para uso com Firebase Authentication e Firestore.
 Quando o login estiver ativo, cada usuário utiliza seu próprio espaço isolado na nuvem.
 
-## Como publicar no GitHub Pages
+## Versão deste pacote com login e PWA 
 
-1. Envie os arquivos deste pacote para a raiz do repositório.
-2. Garanta que o arquivo principal publicado seja `index.html`.
-3. Ative o GitHub Pages na branch desejada.
-4. Após publicar, faça um recarregamento completo do navegador para atualizar o cache do Service Worker.
-
-## Versão deste pacote
-
-**Financi 5.2**
-
-### Ajustes desta versão
-- corrigido o problema em que iniciar uma devolução e fechar sem confirmar criava um clone do produto;
-- o botão **Manter dados apenas por Login** agora usa azul quando desligado e verde quando ativo;
-- pacote GitHub atualizado com PWA, Service Worker, README, favicon, ícones Android e miniaturas do navegador baseados na identidade visual atual do Financi.
+**Financi 5.X**
