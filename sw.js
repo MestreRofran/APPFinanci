@@ -1,4 +1,4 @@
-const CACHE_NAME = 'financi-v5.2';
+const CACHE_NAME = 'financi-v5.5';
 const CORE_ASSETS = [
   './',
   './index.html',
